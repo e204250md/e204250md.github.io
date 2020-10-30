@@ -1,0 +1,19 @@
+h1{
+    color: #ff15ff;
+    font-size: 60px;
+    font-weight: normal;
+    font-family: "impact";
+    text-align: center;
+    background-color: black;
+}
+
+p{
+    background-color: azure;
+}
+
+body{
+    background-image: url(../images/Highest%20in%20the%20room.png);
+    background-repeat:repeat-y;
+    background-attachment: fixed;
+    background-position: top;
+}
