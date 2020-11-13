@@ -1,0 +1,43 @@
+h1{
+    color: white;
+    font-size: 50px;
+    font-weight: normal;
+    font-family: "impact";
+    text-align: center;
+    background-color: blue;
+}
+
+h2{
+    color: white;
+    text-align: center;
+    font-family: "impact";
+    background-color: blue;
+}
+
+h3{
+    color: orangered;
+    text-align: center;
+    font-family: "impact";
+}
+
+p{
+    color: mediumvioletred;
+    text-align: center;
+}
+
+body{
+    background-image: url(../images/haikei.jpeg);
+    background-position: top;
+}
+
+#gazou{
+    text-align: center;
+}
+
+table{
+    background-color: aqua
+}
+
+ol{
+    background-image: url(../images/watercolor.png)
+}
