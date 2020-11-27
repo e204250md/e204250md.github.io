@@ -1,0 +1,61 @@
+h1{
+    color: white;
+    font-size: 60px;
+    font-weight: normal;
+    font-family: "impact";
+    text-align: center;
+    background-color: black;
+}
+
+h2.high{
+    color: white;
+    text-align: center;
+    font-family: "impact";
+    background-color: blue;
+}
+
+h2.middle{
+    color: white;
+    text-align: center;
+    font-family: "impact";
+    background-color: gray;
+}
+
+h2.link{
+    color: white;
+    text-align: center;
+    font-family: "impact";
+    background-color: green;
+}
+
+h3{
+    color: orangered;
+    text-align: center;
+    font-family: "impact";
+}
+
+p.high{
+    color: red;
+    text-align: center;
+    font-size:20px;
+}
+
+p.middle{
+    color: red;
+    text-align: center;
+    font-size:20px;
+}
+
+body{
+    background-image: url(../images/hoshizora.jpg);
+    background-position: top;
+}
+
+#gazou{
+    text-align: center;
+}
+
+li{
+    color: red;
+    text-align:center;
+}
