@@ -1,0 +1,82 @@
+div.title{
+    width: 1000px;
+    height: 40px;
+    background-color: aquamarine;
+    font-size: 30px;
+    font-family: "impact";
+    margin-bottom:  20px;
+}
+
+div.main{
+    font-size: 0px;
+}
+
+div.left{
+    vertical-align: top;
+    display:inline-block;
+    text-align: center;
+}
+
+div.menu1{
+    vertical-align: top;
+    width: 250px;
+    height: 100px;
+    background-color: beige;
+    font-size: 30px;
+    font-family: "impact";
+    margin-bottom:  10px;
+}
+
+div.menu2{
+    vertical-align: top;
+    width: 250px;
+    height: 100px;
+    background-color: beige;
+    font-size: 30px;
+    font-family: "impact";
+    margin-bottom:  10px;
+}
+
+div.menu3{
+    vertical-align: top;
+    width: 250px;
+    height: 100px;
+    background-color: beige;
+    font-size: 30px;
+    font-family: "impact";
+}
+
+div.right{
+    vertical-align: top;
+    display:inline-block;
+    text-align: center;
+}
+
+div.pic{
+    width: 700px;
+    height: 300px;
+    background-color: black;
+    color: white;
+    font-size:30px;
+    margin-left: 50px;
+}
+
+div.article{
+    width: 700px;
+    height: 20px;
+    background-color: darkviolet;
+    font-size: 15px;
+    font-family: "impact";
+    text-align: center;
+    margin-left: 50px
+}
+
+div.footer{
+    width: 1000px;
+    height: 40px;
+    background-color: burlywood;
+    font-size: 30px;
+    font-family: "impact";
+    text-align: right;
+    margin-top:  20px;
+}
